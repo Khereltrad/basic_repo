@@ -1,0 +1,11 @@
+
+ 
+ Se crea en Github repositorio llamado basic_repo
+ se crea repositorio local con mkdir llamado basic_repo
+ Se crea archivo de texto trabajospendientes.txt con instrucción touch y se agrega datos
+ Se agrega con git add . , se hace commit // se hace el enlace del repositorio remoto con las instrucciónes dadas por la pag.
+ Una vez ya vinculados los repositorios, se sube desde local con git push origin main
+ Para los cambios solicitados se crea un nuevo texto con las instrucciónes de la actividad, se adhiere, se commitea y se sube.
+ Se checkea en repositorio remoto los archivos subidos.
+ se sube este archivo .txt con la descripción de los pasos dados
+ 
